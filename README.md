@@ -132,6 +132,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - A popular web-based interface for running Stable Diffusion models, offering extensive features and customization options.
 - **[Perplexity AI](https://www.perplexity.ai/)** - A powerful AI tool for question answering and information retrieval, offering interactive and accurate results.
 
+- **[boterview](https://boterview.com/)** - AI interview preparation, real world confidence.
 - **[Runway ML](https://runwayml.com/)** - A creative suite for generating, editing, and manipulating media using AI, popular for video and content creation.
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** - An online tool for creating surreal images using deep neural networks, allowing for unique and artistic effects.
 - **[Synthesia](https://www.synthesia.io/)** - AI video creation platform that allows you to create professional videos with AI avatars, perfect for business presentations.
