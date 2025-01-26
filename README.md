@@ -327,6 +327,7 @@ ________________________________________________________________
 - [Todoist](https://todoist.com/) - Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
 - [Canva](https://www.canva.com/) - Easy Graphic Design
+- [boterview](https://boterview.com/) - AI Interview Preparation Tool
 
 ________________________________________________________________
 
